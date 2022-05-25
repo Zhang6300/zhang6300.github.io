@@ -7,4 +7,4 @@
   
   
 # 我有一个小小的愿望  
-[生日礼物](htpps://zhang6300.github.io/my wish/)  
+[生日礼物](https://zhang6300.github.io/my wish/)  
